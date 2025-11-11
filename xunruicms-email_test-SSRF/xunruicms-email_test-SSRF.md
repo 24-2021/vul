@@ -14,7 +14,7 @@ Xunrui CMS system is to help customers promote their products, services and bran
 
 In System - Email Settings - Add
 
-![image-20251111154906248](\img\1.png)
+![image-20251111154906248](.\\img\\1.png)
 
 红框里面得必填
 
@@ -79,3 +79,4 @@ Vulnerabilities affect versions
 | 迅睿CMS-ThinkPHP版安装包    | 4.7.1 | 2025-11-11 |
 
 | 迅睿CMS-CodeIgniter版安装包 | 4.7.1 | 2025-11-11 |
+
