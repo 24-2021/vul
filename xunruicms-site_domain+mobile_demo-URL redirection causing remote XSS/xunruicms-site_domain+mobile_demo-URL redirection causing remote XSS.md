@@ -10,13 +10,11 @@ Xunrui CMS system is to help customers promote their products, services and bran
 
 ## POC
 
-在设置-域名绑定-项目域名-电脑域名变更
+在设置-域名绑定-项目域名-电脑域名变更设置好后在模块：手机域名变更-预览网站
 
-In Settings - Domain Binding - Project Domain - Computer Domain Name Change
+After setting up the domain name binding project domain name computer domain name change in the module: Mobile Domain Name Change Preview Website![image-20251111154906248](./img/1.png)
 
-![image-20251111154906248](./img/1.png)
-
-首先替换www.baidu.com
+First, replace www.baidu.com
 
 ![image-20251111154906248](./img/2.png)
 
@@ -42,13 +40,19 @@ is_form=1&is_admin=1&is_tips=&csrf_test_name=59da436d6ce748b18db4a32fb1c79c60&do
 
 然后点击手机域名-变更
 
+Then click on the mobile domain name - Change
+
 ![image-20251111154906248](./img/3.png)
 
 进入后-点击预览网站
 
+After entering - click to preview the website
+
 ![image-20251111154906248](./img/5.png)
 
 发现成功url跳转
+
+Successfully discovered URL redirect
 
 ![image-20251111154906248](./img/6.png)
 
@@ -72,11 +76,15 @@ Connection: close
 
 如果替换远程服务器开一个XSS服务
 
+If replacing the remote server and opening an XSS service
+
 ![image-20251111154906248](./img/9.png)
 
 ![image-20251111154906248](./img/8.png)
 
 替换，然后重复上述步骤可以触发远程XSS
+
+Replace and repeat the above steps to trigger remote XSS
 
 ![image-20251111154906248](./img/10.png)
 
